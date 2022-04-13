@@ -7,14 +7,20 @@
 .dt Phallic Worship, by anon.—A Project Gutenberg eBook
 
 
------File: 01.png----------------------------------------------------------
+// 01.png
+.bn 01.png
+.pn 1
 
 
 
 
 PHALLIC WORSHIP
------File: 02.png----------------------------------------------------------
------File: 03.png----------------------------------------------------------
+// 02.png
+.bn 02.png
+.pn +1
+// 03.png
+.bn 03.png
+.pn +1
 
 
 
@@ -38,8 +44,12 @@ LONDON
 PRIVATELY PRINTED
 1880
 */
------File: 04.png----------------------------------------------------------
------File: 05.png----------------------------------------------------------
+// 04.png
+.bn 04.png
+.pn +1
+// 05.png
+.bn 05.png
+.pn +1
 
 
 
@@ -74,8 +84,12 @@ Rolle, Inman, and other writers.</i>
 <i>It was intended to give with this volume a list of works
 and miscellaneous pieces written on the subject, but the length
 of the list prevented its being added.</i>
------File: 06.png----------------------------------------------------------
------File: 07.png----------------------------------------------------------
+// 06.png
+.bn 06.png
+.pn +1
+// 07.png
+.bn 07.png
+.pn +1
 
 
 
@@ -112,7 +126,9 @@ of man to the supreme power, the Author of life.
 
 Afterwards the worship became more depraved, a
 religion of feeling, sensuous bliss, corrupted by a priest-*
------File: 08.png----------------------------------------------------------
+// 08.png
+.bn 08.png
+.pn +1
 *hood who were not slow to take advantage of this state
 of affairs, and inculcated with it profligate and mysterious
 ceremonies, union of gods with women, religious prostitution
@@ -151,7 +167,9 @@ sexual appointments revered as the emblems of the
 Creator. The one male, the active creative power;
 the other the female or passive power; ideas which were
 represented by various emblems in different countries.
------File: 09.png----------------------------------------------------------
+// 09.png
+.bn 09.png
+.pn +1
 
 These emblems were of a pure and sacred character,
 and used at a time when the prophets and priests spoke
@@ -188,7 +206,9 @@ of our ancient customs are traced to a Phallic origin.
 “When we cross over to Britain,” says the writer, “we
 find this worship established no less firmly and extensively
 in that island; statuettes of Priapus, Phallic bronzes,
------File: 10.png----------------------------------------------------------
+// 10.png
+.bn 10.png
+.pn +1
 pottery covered with obscene pictures, are found wherever
 there are any extensive remains of Roman occupation,
 as our antiquaries know well. The numerous Phallic
@@ -226,7 +246,9 @@ deity, called Priapus.
 Phallus, or privy member (<i>membrum virile</i>), signifies,
 “he breaks through, or passes into.” This word survives
 in German <i>pfahl</i>, and <i>pole</i> in English. Phallus is supposed
------File: 11.png----------------------------------------------------------
+// 11.png
+.bn 11.png
+.pn +1
 to be of Phœnician origin, the Greek word <i>pallo</i>, or
 <i>phallo</i>, “to brandish preparatory to throwing a missile,”
 is so near in assonance and meaning to Phallus, that one
@@ -262,7 +284,9 @@ the emblems, says:--
 
 “Forms and ceremonials of a religion are not always
 to be understood in their direct and obvious sense, but
------File: 12.png----------------------------------------------------------
+// 12.png
+.bn 12.png
+.pn +1
 are to be considered as symbolical representations of some
 hidden meaning extremely wise and just, though the
 symbols themselves, to those who know not their true
@@ -297,7 +321,9 @@ by the several patriarchs to mark their adoration of the
 Lord God. In fact, one of these patriarchal lithoi might
 even now be carried in the Sivaitic processions of Calcutta
 without its Hebrew derivation being suspected.”
------File: 13.png----------------------------------------------------------
+// 13.png
+.bn 13.png
+.pn +1
 
 
 
@@ -339,7 +365,9 @@ and either goyng all together, or devidyng
 themselves into companies, they go some to the woods
 and groves, some to one place, some to another, where
 thei spend all the night in pleasant pastymes; and in the
------File: 14.png----------------------------------------------------------
+// 14.png
+.bn 14.png
+.pn +1
 mornyng they returne, bryngyng with them birch bowes
 and branches of trees, to deck their assemblies withall....
 But their cheerest jewell thei bryng from thence
@@ -376,7 +404,9 @@ PILLARS
 Another type of emblem was the stone pillar, remains of
 which still exist in the British Isles. These pillars or so
 called crosses generally consist of a shaft of granite with
------File: 15.png----------------------------------------------------------
+// 15.png
+.bn 15.png
+.pn +1
 a carved head. In the West of England crosses are very
 common, standing in the market and receiving the name
 of “The Cross.”
@@ -414,7 +444,9 @@ of the country in honour of the <i>Fructifying</i> principle of
 nature, emanating as was supposed from the Sun, or the
 deity of desire instrumental in that principle of universal
 generativeness diffused throughout all nature.”
------File: 16.png----------------------------------------------------------
+// 16.png
+.bn 16.png
+.pn +1
 
 According to the same author these towers were very
 ancient, and of Phœnician origin, as similar towers have
@@ -453,7 +485,9 @@ Loggin stones are by Payne Knight considered as
 Phallic emblems. “Their remains,” he says, “are still
 extant, and appear to have been composed of a crone set
 into the ground, and another placed upon the point of
------File: 17.png----------------------------------------------------------
+// 17.png
+.bn 17.png
+.pn +1
 it and so nicely balanced that the wind could move it,
 though so ponderous that no human force, unaided by
 machinery, can displace it; whence they are called
@@ -490,7 +524,9 @@ at Karnak is, in particular, full of such figures, and the
 temple of Danclesa likewise, though that is of much later
 date, and built merely in imitation of old Egyptian art.
 The same inspiring <i>bas-reliefs</i> are pointed out by Ezek.
------File: 18.png----------------------------------------------------------
+// 18.png
+.bn 18.png
+.pn +1
 xxiii. 14. I remember one scene of a king (Rameses II)
 returning in triumph with captives, many of whom were
 undergoing the process of castration.”
@@ -528,7 +564,9 @@ appendages should be deified also. “Beltus,” says
 Inman, “was the goddess associated with them, the four
 together made up Arba or Arba-il, the four great gods,”
 the Trinity in Unity. The idea thus broached receives
------File: 19.png----------------------------------------------------------
+// 19.png
+.bn 19.png
+.pn +1
 great confirmation when we examine the particular stress
 laid in ancient times respecting the right and left side of
 the body in connection with the Triad names given to
@@ -564,7 +602,9 @@ gods and their attributes had no ideal meaning. Thus in
 Genesis xxx. 13, we find Asher given as a personality,
 which signifies “to be straight,” “upright,” “fortunate,”
 “happy.” Asher was the supreme god of the Assyrians,
------File: 20.png----------------------------------------------------------
+// 20.png
+.bn 20.png
+.pn +1
 the Vedic Mahadeva, the emblem of the human male
 structure and creative energy. The same idea of the
 creator is still to be seen in India, Egypt, Phœnicia, the
@@ -602,7 +642,9 @@ Another writer says, “Reverse the position of the
 triple deities Asshur, Anu, Hea, and we have the figure
 of the ancient ‘tau’ of the Christians, Greeks, and ancient
 Hebrews. It is one of the oldest conventional forms of
------File: 21.png----------------------------------------------------------
+// 21.png
+.bn 21.png
+.pn +1
 the cross. It is also met with in Gallic, Oscan, Arcadian,
 Etruscan, original Egyptian, Phœnician, Ethiopic, and
 Pelasgian forms. The Ethiopic form of the ‘tau’ is the
@@ -638,7 +680,9 @@ Asher, and others.
 If Ezekiel is to be credited, the triad, T, as Asshur,
 Anu, and Hea, was made of gold and silver, and was in
 his day not symbolically used, but actually employed;
------File: 22.png----------------------------------------------------------
+// 22.png
+.bn 22.png
+.pn +1
 for he bluntly says “whoredom was committed with the
 images of men,” or, as the marginal note has it, images
 of “a male” (Ezek. xvi. 17). It was with this god-mark--a
@@ -676,7 +720,9 @@ times of Paganism by the Egyptians as a banner, above
 which was carried the device of the Egyptian cities.
 
 The cross was also used by the ancient Druids, who held
------File: 23.png----------------------------------------------------------
+// 23.png
+.bn 23.png
+.pn +1
 it as a sacred emblem. In Egypt it stood for the signification
 of eternal life. Schedeus describes it as customary
 for the Druids “to seek studiously for an oak tree, large
@@ -713,7 +759,9 @@ so Juno and Venus were representatives of the female
 attribute. Moore, in his “Oriental Fragments,” says:
 “Oriental writers have generally spelled the word,
 ‘Yoni,’ which I prefer to write ‘IOni.’ As Lingam
------File: 24.png----------------------------------------------------------
+// 24.png
+.bn 24.png
+.pn +1
 was the vocalised cognomen of the male organ, or deity,
 so IOni was that of hers.” Says R. P. Knight: “The
 female organs of generation were revered as symbols
@@ -750,7 +798,9 @@ plate used as a sacrificial cup in the worship of Astarte,
 Isis, and Venus. Its shape portrays its own significance.
 The Argha and <i>crux ansata</i> were often seen on Egyptian
 monuments, and yet more frequently on bas-reliefs.
------File: 25.png----------------------------------------------------------
+// 25.png
+.bn 25.png
+.pn +1
 
 Equivalent to Iao, or the Lingam, we find Ab, the
 Father, the Trinity; Asshur, Anu, Hea, Abraham, Adam,
@@ -787,7 +837,9 @@ Could not those people exclaim, Our “God is love”?
 (1 John iv. 8).
 
 The amatory drift of Solomon’s song is undisguised,
------File: 26.png----------------------------------------------------------
+// 26.png
+.bn 26.png
+.pn +1
 though the language is dressed in the habiliments of seeming
 decency. The burden of thought of most of it bears
 direct reference to the Linga-Yoni. He makes a woman
@@ -823,7 +875,9 @@ fact that the genital member, which is meant by the euphemistic
 expression <i>thigh</i>, was regarded as the most sacred
 part of the body, being the symbol of union in the tenderest
 relation of matrimonial life, and the seat whence all issue
------File: 27.png----------------------------------------------------------
+// 27.png
+.bn 27.png
+.pn +1
 proceeds and the perpetuity so much coveted by the
 ancients. Compare Gen. xlvi. 26; Exod. i. 5; Judges
 vii. 30. Hence the creative organ became the symbol
@@ -858,7 +912,9 @@ when we note the sway that power exercised over them.
 If these organs were lost or disabled, the unfortunate one
 was unfitted to meet in the congregation of the Lord,
 and disqualified to minister in the holy temples. Excessive
------File: 28.png----------------------------------------------------------
+// 28.png
+.bn 28.png
+.pn +1
 punishment was inflicted upon the person who had the
 temerity to injure the sacred structure. If a woman were
 guilty of inflicting injury, her hand was cut off without
@@ -893,7 +949,9 @@ image in the grove,” and, according to Dr. Oort, the older
 reading is in 2 Chron. xxxiii. 7, 15, where it is an image
 or pillar. During the reigns of the Jewish kings, the
 worship of Baal, the Priapus of the Greeks and Romans,
------File: 29.png----------------------------------------------------------
+// 29.png
+.bn 29.png
+.pn +1
 was extensively practised by the Jews. Pillars and
 groves were reared in his name.
 
@@ -931,7 +989,9 @@ of the Jews.
 An instance is given by Forlong on the important
 word “Rock or Stone,” a Phallic emblem to which the
 Jews addressed their devotions. He says, “It should
------File: 30.png----------------------------------------------------------
+// 30.png
+.bn 30.png
+.pn +1
 not be, but I fear it is, necessary to explain to mere English
 readers of the Old Testament that the <i>Stone</i> or <i>Rock Tsur</i>
 was <i>the real old god of all Arabs, Jews, and Phœnicians</i>,
@@ -967,7 +1027,9 @@ who came and offered money, which, whether little or
 much, was accepted, and applied to a sacred purpose.
 Women sat in the temple of Venus awaiting the selection
 of the stranger, who had the liberty of choosing whom
------File: 31.png----------------------------------------------------------
+// 31.png
+.bn 31.png
+.pn +1
 he liked. A woman once seated must remain until she
 has been selected by a piece of silver being cast into her
 lap, and the rite performed outside the temple.”
@@ -1005,7 +1067,9 @@ for hire, the price of which hire goes to the service of the
 temple.
 
 As a general rule, we may assume that priests who make
------File: 32.png----------------------------------------------------------
+// 32.png
+.bn 32.png
+.pn +1
 or expound the laws, which they declare to be from God,
 are men, and, consequently, through all time, have
 thought, and do think, of the gratification of the masculine
@@ -1043,7 +1107,9 @@ upright”; Ara, “the strong one,” “the hero”; Aram,
 “high,” or, “to be uncovered”; Baal Shalisha, “my
 Lord the trinity,” or “my God is three”; Ben-zohett,
 “son of firmness”; Camon, “the erect One”; Cainan,
------File: 33.png----------------------------------------------------------
+// 33.png
+.bn 33.png
+.pn +1
 “he stands upright”; these are only a few of the many
 names of a similar signification.
 
@@ -1082,7 +1148,9 @@ which was imparted by passing through it. From natural
 caverns being considered holy, the veneration for apertures
 in stones, as being equally symbolical, was a natural
 #/
------File: 34.png----------------------------------------------------------
+// 34.png
+.bn 34.png
+.pn +1
 /#
 transition. Holes, such as we refer to, are still to be seen
 in those structures which are called Druidical, both in
@@ -1118,7 +1186,9 @@ the surface of which there is a natural crevice, which
 communicates with a cavity opening below. This place
 is used by the Gentoos as a purification of their sins,
 #/
------File: 35.png----------------------------------------------------------
+// 35.png
+.bn 35.png
+.pn +1
 /#
 which they say is effected by their going in at the opening
 below, and emerging at the cavity above--“born again.”
@@ -1155,7 +1225,9 @@ character. The gravest and proudest matrons
 suddenly laid aside their decency and ran screaming
 among the woods and hills half-naked, with dishevelled
 hair, interwoven with which were pieces of ivy or vine.
------File: 36.png----------------------------------------------------------
+// 36.png
+.bn 36.png
+.pn +1
 The Bacchanalian feasts were celebrated in the latter part
 of October when the harvest was completed. Wine and
 figs were carried in the procession of the Bacchants, and
@@ -1190,7 +1262,9 @@ the shape of a Goat) whose priests, according to Owen in
 his <i>Worship of Serpents</i>, on the morning of the Feast ran
 naked through the streets, striking the married women
 they met on the hands and belly, which was held as an
------File: 37.png----------------------------------------------------------
+// 37.png
+.bn 37.png
+.pn +1
 omen promising fruitfulness. The nymphs performing
 the same ostentatious display as the Bacchants at the
 festival of Bacchanalia.
@@ -1227,7 +1301,9 @@ states that the rites of Bacchus were celebrated in the
 British Isles; while Strabo, who lived in the time of
 Augustus and Tiberius, asserts that a much earlier writer
 described the worship of the Cabiri to have come originally
------File: 38.png----------------------------------------------------------
+// 38.png
+.bn 38.png
+.pn +1
 from Phœnicia. Higgins, in his History of the Druids,
 says, the supreme god above the rest was called <i>Seodhoc
 and Baal</i>[**ital. “and” unintentional?]. The name of Baal is found both in Wales,
@@ -1263,7 +1339,9 @@ custom still continues, and that on “particular
 days great fires are lighted, and the fathers taking the
 children in their arms, jump or run through them, and
 thus pass their children through them; they also light
------File: 39.png----------------------------------------------------------
+// 39.png
+.bn 39.png
+.pn +1
 two fires at a little distance from each other, and drive
 their cattle between them.” It will be found on reference
 to Deuteronomy, that this very practice is specially forbidden.
@@ -1298,7 +1376,9 @@ thus, Joshua erected a stone to bear witness; Jacob
 put up a stone to make a place sacred; Abel set up the
 same for a place of worship; Samuel erected a stone as
 a boundary, which was to be the token of an agreement
------File: 40.png----------------------------------------------------------
+// 40.png
+.bn 40.png
+.pn +1
 made in the name of God. Even Maundrel in his travels
 names several that he saw in Palestine. It is curious that
 where a pillar was erected there, sometime after, a temple
@@ -1333,7 +1413,9 @@ nearly identical with those of the ancient Phœnicians....
 We moreover discover that many of their religious terms
 have, etymologically, the same origin.” Payne Knight,
 in his Worship of Priapus, devotes much of his work to
------File: 41.png----------------------------------------------------------
+// 41.png
+.bn 41.png
+.pn +1
 show that the temples erected at Stonehenge and other
 places, were of a Phœnician origin, which was simply
 a temple of the god Bacchus.
@@ -1368,7 +1450,9 @@ in the centre of which was kindled the sacred fire, the
 symbol of the god. Homer frequently speaks of places
 of worship consisting of an area and altar only, which were
 probably enclosures like those of the Persians, with an
------File: 42.png----------------------------------------------------------
+// 42.png
+.bn 42.png
+.pn +1
 altar in the centre. The temples dedicated to the creator
 Bacchus, which the Greek architects called <i>hypæthral</i>,
 seem to have been anciently of this kind, whence probably
@@ -1402,7 +1486,9 @@ square area in which it stood was sunk below the natural
 level of the ground, and, like that of the Indian pagoda,
 appears to have been occasionally floated with water;
 the drains and conduits being still to be seen, as also several
------File: 43.png----------------------------------------------------------
+// 43.png
+.bn 43.png
+.pn +1
 fragments of sculpture representing waves, serpents, and
 various aquatic animals, which once adorned the basement.
 The Bacchus here worshipped, was, as we learn from the
@@ -1437,7 +1523,9 @@ circular temple of the sun being noticed in such slight and
 imperfect accounts, proves that it must have been something
 singular and important; for if it had been an
 inconsiderable structure, it would not have been mentioned
------File: 44.png----------------------------------------------------------
+// 44.png
+.bn 44.png
+.pn +1
 at all; and if there had been many such in the country,
 the historian would not have employed the singular
 number.
@@ -1473,7 +1561,9 @@ Says Hyslop:--“The hot cross-buns of Good Friday,
 and the dyed eggs of Pasch or Easter Sunday, figured in
 the Chaldean rites just as they do now. The buns known,
 too, by that identical name, were used in the worship of the
------File: 45.png----------------------------------------------------------
+// 45.png
+.bn 45.png
+.pn +1
 Queen of Heaven, the goddess Easter (Ishtar or Astarte),
 as early as the days of Cecrops, the founder of Athens,
 1,500 years before the Christian era.” “One species of
@@ -1510,7 +1600,9 @@ they were tolerated in Christian Europe, as, to all innocent
 surprise we find they were, from the second part of the
 “Remains of the Worship of Priapus”: that in Saintonge,
 in the neighbourhood of La Rochelle, small cakes baked in
------File: 46.png----------------------------------------------------------
+// 46.png
+.bn 46.png
+.pn +1
 the form of the Phallus are made as offerings at Easter,
 carried and presented from house to house. Dulare
 states that in his time the festival of Palm Sunday, in the
@@ -1545,7 +1637,9 @@ great veneration in a miniature tabernacle, which was
 considered the special and sanctified abode of the god.
 In size and manner of construction the ark of the Jews
 and the sacred chest of Osiris of the Egyptians were
------File: 47.png----------------------------------------------------------
+// 47.png
+.bn 47.png
+.pn +1
 exactly alike, and were carried in processions in a similar
 manner.
 
@@ -1582,7 +1676,9 @@ that an ark, chest, cell, boat, or cavern, held an important
 place in their mysteries. In the story of Osiris, like that
 of the Siva, will be found the reason for the emblem being
 carried in the sacred chest, and the explanation of one of
------File: 48.png----------------------------------------------------------
+// 48.png
+.bn 48.png
+.pn +1
 the mysteries of the Egyptian priests. It is said that
 Osiris was torn to pieces by the wicked Typhon, who
 after cutting up the body, distributed the parts over the
@@ -1619,7 +1715,9 @@ His loss, or death, constituted the first part of the mysteries,
 which consisted of lamentations for his decease. After the
 third day from his death, a procession went down to the
 seaside in the night, carrying the ark with them. During
------File: 49.png----------------------------------------------------------
+// 49.png
+.bn 49.png
+.pn +1
 the passage they poured drink offerings from the river, and
 when the ceremony had been duly performed, they raised a
 shout that Osiris had again risen--that the dead had been
@@ -1653,7 +1751,9 @@ that her festival was celebrated by the ancient Saxons in
 the month of April, from which circumstance that month
 was named by the Anglo-Saxons, Easter-mona or Eoster-mona,
 and that the name of the goddess had been frequently
------File: 50.png----------------------------------------------------------
+// 50.png
+.bn 50.png
+.pn +1
 given to the Paschal time, with which it was identical. The
 name of this goddess was given to the same month by
 the old Germans and by the Franks, so that she must have
@@ -1681,7 +1781,9 @@ the name of hot cross-buns, and the superstitious feelings
 attached to them; for multitudes of people still believe
 that if they failed to eat a hot cross-bun on Good Friday,
 they would be unlucky all the rest of the year.”
------File: 51.png----------------------------------------------------------
+// 51.png
+.bn 51.png
+.pn +1
 
 
 
@@ -1721,7 +1823,9 @@ The Doric column, which appears to have been the
 only one known to the very ancient Greeks, was equally
 derived from the Nelumbo; its capital being the same
 seed-vessel pressed flat, as it appears when withered and
------File: 52.png----------------------------------------------------------
+// 52.png
+.bn 52.png
+.pn +1
 dry--the only state probably in which it had been seen in
 Europe. The flutes in the shaft were made to hold
 spears and staves, whence a spear-holder is spoken of in
@@ -1757,7 +1861,9 @@ overcome the Titans with his ægis, as Isis drove away
 Typhon with her sistrum, and the ringing of the bells
 and clatter of metals were almost universally employed
 as a means of consecration, and a charm against the
------File: 53.png----------------------------------------------------------
+// 53.png
+.bn 53.png
+.pn +1
 destroying and inert powers. Even the Jews welcomed
 the new moon with such noises, which the simplicity of
 the early ages employed almost everywhere to relieve
@@ -1792,7 +1898,9 @@ Roman Catholics, which have been used by the Buddhist
 
 [Footnote 1: The above description is from Payne Knight’s “Symbolical
 Language of ancient Art and Mythology.”]
------File: 54.png----------------------------------------------------------
+// 54.png
+.bn 54.png
+.pn +1
 monks for over 2,000 years. Tinkling bells were
 suspended before the shrine of Jupiter Ammon, and
 during the service the gods were invited to descend upon
@@ -1827,7 +1935,9 @@ form. Prakeety was herself a damsel of matchless worth.
 She went before the devotees who were assembled with
 their disciples, awaiting the rising of the sun, to perform
 their ablutions and religious ceremonies. As she advanced
------File: 55.png----------------------------------------------------------
+// 55.png
+.bn 55.png
+.pn +1
 the refreshing breeze moved her flowing robe, showed
 the exquisite shape which it seemed intended to conceal.
 With eyes cast down, though sometimes opening with a
@@ -1862,7 +1972,9 @@ as Krishen on the plains of Matra. Some dropped their
 jewels without turning to look for them; others let
 fall their garments without perceiving that they discovered
 those abodes of pleasure which jealousy as well as decency
------File: 56.png----------------------------------------------------------
+// 56.png
+.bn 56.png
+.pn +1
 had ordered to be concealed. All pressed forward with
 their offerings, all wished to speak, all wished to be taken
 notice of, and bringing flowers and scattering them before
@@ -1898,7 +2010,9 @@ saw the maid--the women, the Pandaram.
 devotees foretold came not to pass. Their disciples,
 in consequence, neglected to attend them, and the offerings
 from the princes and nobles became less frequent than
------File: 57.png----------------------------------------------------------
+// 57.png
+.bn 57.png
+.pn +1
 before. They then performed various penances; they
 sought for secret places among the woods unfrequented
 by man; and having at last shut their eyes from the
@@ -1933,7 +2047,9 @@ this attempt, turned the fire with indignation against the
 human race; and mankind would soon have been
 destroyed, had not Vishnu, alarmed at the danger,
 implored him to suspend his wrath. At his entreaties
------File: 58.png----------------------------------------------------------
+// 58.png
+.bn 58.png
+.pn +1
 Sheevah relented; but it was ordained that in his temples
 those parts should be <i>worshipped</i>, which the false doctrines
 had impiously attempted to destroy.”
@@ -1969,7 +2085,9 @@ attached to a chaplet of beads placed in a circle, so as to
 form a complete rosary, such as the Lamas of Thibet
 and China, the Hindus, and the Roman Catholics now
 tell over while they pray.
------File: 59.png----------------------------------------------------------
+// 59.png
+.bn 59.png
+.pn +1
 
 
 
@@ -2009,7 +2127,9 @@ Lotus, floating like a boat on the boundless ocean, where
 the whole plant signifies both the earth and the two
 principles of its fecundation. The germ is both Meru and
 the Linga; the petals and filaments are the mountains
------File: 60.png----------------------------------------------------------
+// 60.png
+.bn 60.png
+.pn +1
 which encircle Meru, and are also a type of the Yoni;
 the leaves of the calyx are the four vast regions to the
 cardinal points of Meru; and the leaves of the plant are
@@ -2044,7 +2164,9 @@ Knight, in his curious dissertation on Phallic Worship:--“The
 Lotus is the Nelumbo of Linnæus. This plant
 grows in the water, among its broad leaves puts forth
 a flower, in the centre of which is formed the seed vessel,
------File: 61.png----------------------------------------------------------
+// 61.png
+.bn 61.png
+.pn +1
 shaped like a bell or inverted cone, and perforated on the
 top with little cavities or cells, in which the seeds grow.
 The orifices of these cells being too small to let the seeds
@@ -2079,7 +2201,9 @@ flower arising out of it, the mast thereof. The one was
 the galley or cockboat, and the other the mast of cockayne;
 but as the ship was Isis or Magna Mater, the female
 principle, and the mast in it the male deity, these parts of
------File: 62.png----------------------------------------------------------
+// 62.png
+.bn 62.png
+.pn +1
 the flower came to have certain other significations, which
 seem to have been as well known at Samosata as at Benares.
 This plant was also used in the sacred offices of the Jewish
@@ -2115,7 +2239,9 @@ form, repose for the space of one Calpho (a thousand
 years); after which period the intention of creating
 other beings for his own wise purposes became pre-*dominant
 in the mind of the <i>Great Creator</i>. In the first
------File: 63.png----------------------------------------------------------
+// 63.png
+.bn 63.png
+.pn +1
 place, by his sovereign will was produced the flower
 of the Lotus, afterwards, by the same will, was brought
 to light the form of Brahma from the said flower; Brahma,
@@ -2150,7 +2276,9 @@ stratum. He then took up the mighty ponderous globe
 on the face of the water; Brahma, contemplating the
 whole earth, performed due reverence, and rejoicing
 exceedingly, began to consider the means of peopling
------File: 64.png----------------------------------------------------------
+// 64.png
+.bn 64.png
+.pn +1
 the renovated world.” <i>Pyag</i>, now Allahabad, was the
 first land said to have appeared, but with the Brahmins
 it is a disputed point, for many affirm that <i>Casi</i> or Benares
@@ -2183,7 +2311,9 @@ continue to shave the head. To make a place holy,
 among the Hindus, Tartars, and people of Thibet, it
 was necessary to have a mount Meru, also a Linga-Yoni,
 or Arba.
------File: 65.png----------------------------------------------------------
+// 65.png
+.bn 65.png
+.pn +1
 
 
 
@@ -2223,7 +2353,9 @@ In most Ling rooms a sufficient space is left for the votaries
 to walk round whilst making the usual invocations to the
 deity (Maha Deo). This deity is much frequented by
 female votaries, who take especial care to keep it clean[**P3: ,]
------File: 66.png----------------------------------------------------------
+// 66.png
+.bn 66.png
+.pn +1
 washed, and often perfume it with oderiferous oils and
 flowers, whilst the attendant Brahmins sweep the apartment
 and attend the five oil lights and bell ringing.” This oil
@@ -2258,7 +2390,9 @@ which had perhaps replaced some less equivocal object.”
 The principal object of worship at Elora is the stone, so
 frequently spoken of; “the Lingam,” says Seeley, and he
 apologises for using the word so often, but asks to be
------File: 67.png----------------------------------------------------------
+// 67.png
+.bn 67.png
+.pn +1
 excused, “is an emblem not generally known, but as
 frequently met with as the Cross in Catholic worship.”
 It is the god Siva, a symbol of his generative character,
@@ -2293,7 +2427,9 @@ daughter of Jupiter and Dione, that is of the male and
 female personifications of the all-pervading Spirit of the
 Universe; Dione being the female Dis or Zeus, and therefore
 associated with him in the most ancient oracular[**I believe this is supposed to be “oracular”, but unsure]
------File: 68.png----------------------------------------------------------
+// 68.png
+.bn 68.png
+.pn +1
 temple of Greece at Dodona. No other genealogy appears
 to have been known in the Homeric times; though a
 different one is employed to account for the name of
@@ -2329,7 +2465,9 @@ of the goddess, and which was accounted an aphrodisiac,
 though it is likewise of the androgynous class. The fig
 was a still more common symbol, the statue of Priapus
 being made of the tree, and the fruit being carried with the
------File: 69.png----------------------------------------------------------
+// 69.png
+.bn 69.png
+.pn +1
 Phallus in the ancient processions in honour of Bacchus,
 and still continuing among the common people of Italy
 to be an emblem of what it anciently meant: whence
@@ -2364,7 +2502,9 @@ leave it wholly to our discretion. Had it been agreeable
 to the Creator that all nations should have had the same
 form of worship, would it not have been as easy to His
 omnipotence to have created all men with the same senti-*
------File: 70.png----------------------------------------------------------
+// 70.png
+.bn 70.png
+.pn +1
 *ments and dispositions, and to have inspired them with the
 same notions of the True Religion, as to endow them with
 such different tempers and inclinations? Ought they
@@ -2400,7 +2540,9 @@ sanguinary rites have, indeed, been wisely prescribed on
 many occasions; but still <i>as actions and not as opinions</i>.
 Atheism is said to have been punished with death at
 Athens; but nevertheless it may be reasonably doubted
------File: 71.png----------------------------------------------------------
+// 71.png
+.bn 71.png
+.pn +1
 whether the atheism, against which the citizens of that
 republic expressed such fury, consisted in a denial of the
 existence of the gods; for Diagoras, who was obliged
@@ -2435,7 +2577,9 @@ Jews was too sanguinary and too violent to be left entirely
 free from restraint, a chief of the synagogue could order
 anyone of his congregation to be whipped for neglecting
 or violating any part of the Mosaic Ritual.
------File: 72.png----------------------------------------------------------
+// 72.png
+.bn 72.png
+.pn +1
 
 The principle underlying the system of emanations
 was, that all things were of one substance, from which they
