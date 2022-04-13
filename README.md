@@ -24,7 +24,8 @@ No forum posts.
 
 ### Illustrations ###
 
-No illustrations.
+- title page
+- [ ] cover
 
 ### Things to revisit ###
 
