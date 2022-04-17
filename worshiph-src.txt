@@ -6,15 +6,14 @@
 
 .dt Phallic Worship, by anon.—A Project Gutenberg eBook
 
-
 // 01.png
 .bn 01.png
 .pn 1
 
-
-
-
+.ce
 PHALLIC WORSHIP
+
+.pb
 // 02.png
 .bn 02.png
 .pn +1
@@ -22,37 +21,38 @@ PHALLIC WORSHIP
 .bn 03.png
 .pn +1
 
+.h1
+<xxl>PHALLIC WORSHIP</xxl>
 
+.ce 3
+<l>A DESCRIPTION OF THE MYSTERIES</l>
+<s>OF THE</s>
+<xl>SEX WORSHIP OF THE ANCIENTS</xl>
 
+.ce 2
+<l>WITH THE HISTORY OF</l>
+<xxl>THE MASCULINE CROSS</xxl>
 
-/*
-PHALLIC WORSHIP
-
-A DESCRIPTION OF THE MYSTERIES
-OF THE
-SEX WORSHIP OF THE ANCIENTS
-
-WITH THE HISTORY OF
-THE MASCULINE CROSS
-
+.ce
 AN ACCOUNT OF
+
+.ce 3
 PRIMITIVE SYMBOLISM, HEBREW PHALLICISM,
 BACCHIC FESTIVALS, SEXUAL RITES, AND
 THE MYSTERIES OF THE ANCIENT FAITHS
 
+.ce 3
 LONDON
-PRIVATELY PRINTED
-1880
-*/
+<l>PRIVATELY PRINTED</l>
+<s>1880</s>
+
+.pb
 // 04.png
 .bn 04.png
 .pn +1
 // 05.png
 .bn 05.png
 .pn +1
-
-
-
 
 PREFACE
 
