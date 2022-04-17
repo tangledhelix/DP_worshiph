@@ -54,8 +54,8 @@ LONDON
 .bn 05.png
 .pn +1
 
+.h2
 PREFACE
-
 
 <i>The present somewhat slight sketch of a most interesting
 subject, whilst not claiming entire originality, yet embraces
@@ -91,13 +91,13 @@ of the list prevented its being added.</i>
 .bn 07.png
 .pn +1
 
+.pb
 
+.ce
+<xl>PHALLIC WORSHIP</xl>
 
-
-PHALLIC WORSHIP
-
+.h2 nobreak
 NATURE AND SEX WORSHIP
-
 
 Sex Worship has prevailed among all peoples of ancient
 times, sometimes contemporaneous and often mixed with
@@ -156,11 +156,8 @@ shrines of Isis and Venus on the one hand, and of Bacchus
 and Priapus on the other, by appealing to the most
 animating passion of nature.
 
-
-
-
+.h2
 PHALLICISM
-
 
 This is the worship of the reproductive powers, the
 sexual appointments revered as the emblems of the
@@ -222,11 +219,8 @@ abundantly in all Roman sites in our island. “They
 represent erotic scenes, in every sense of the word, with
 figures of Priapus and Phallic emblems.”
 
-
-
-
+.h2
 PHALLUS
-
 
 The Phallus, or Lingam, which stood for the image
 of the male organ, or emblem of creation, has been
@@ -268,11 +262,8 @@ being considered as sanctified persons, the women
 approach without scruple, nor is it thought that their
 modesty should be offended by it.”
 
-
-
-
+.h2
 SYMBOLS OR EMBLEMS
-
 
 The Phallus and its emblems were representative of the
 gods Bacchus, Priapus, Hercules, Siva, Osiris, Baal, and
@@ -325,11 +316,8 @@ without its Hebrew derivation being suspected.”
 .bn 13.png
 .pn +1
 
-
-
-
+.h2
 THE POLE
-
 
 The Pole was an emblem of the Phallus, and with the
 serpent upon it, was a representative of its divine wisdom
@@ -395,11 +383,8 @@ Both were attended with the same licentiousness, for
 Stubbes gives a further account of the depravity attending
 the festivities.
 
-
-
-
+.h2
 PILLARS
-
 
 Another type of emblem was the stone pillar, remains of
 which still exist in the British Isles. These pillars or so
@@ -475,11 +460,8 @@ Where the Phœnicians settled, there they introduced
 their religion, and it is in these countries we find the
 remains of ancient stone and pillar worship.
 
-
-
-
+.h2
 LOGGIN STONES, ETC.
-
 
 Loggin stones are by Payne Knight considered as
 Phallic emblems. “Their remains,” he says, “are still
@@ -540,11 +522,8 @@ than at present. Stones, pillars, obelisks, stumps of
 trees, upright stones have all the same signification, and
 are means by which the male element was symbolised.
 
-
-
-
+.h2
 TRIADS
-
 
 The Triune idea is to be found in the system of almost
 every nation. All have their Trinity in Unity, three in
@@ -618,11 +597,8 @@ less obnoxious symbol, from the plain and self-evident
 to the mixed, disguised, and mystified, from the unclothed
 privy member to the cross.
 
-
-
-
+.h2
 THE CROSS
-
 
 The Triad, or Trinity, has been traced to Phœnicia,
 Egypt, Japan, and India; the triple deities Asshur, Anu,
@@ -737,11 +713,8 @@ upon the left branch ‘Belenus’; over this, above the
 going off of the arms, they cut the name of the god <i>Thau</i>;
 under all, the same repeated, <i>Thau</i>.”
 
-
-
-
+.h2
 YONI
-
 
 There is in Hindostan an emblem of great sanctity,
 which is known as the “Linga-Yoni.” It consists of
@@ -849,11 +822,8 @@ will go up the palm-tree, I will take hold of the boughs
 thereof” (vii. 8). Palm-tree and boughs are euphemisms
 of the male genitals.
 
-
-
-
+.h2
 HEBREW PHALLICISM
-
 
 The nations surrounding the Jews practising the
 Phallic rites and worshipping the Phallic deities, it is not
@@ -1123,11 +1093,8 @@ monotheistic character, but those who desire to have a
 further insight into the mysteries of the wars between the
 tribes should consult Bernstein’s valuable work.
 
-
-
-
+.h2
 EARTH MOTHER
-
 
 The following interesting chapter is taken from a
 valuable book issued a few years ago anonymously:
@@ -1200,11 +1167,8 @@ Christians gave them a bad name, as if from envy; they
 called these holes “Cunni Diaboli” (<i>Anacalypsis</i>, p. 346)[**missing .]
 #/
 
-
-
-
+.h2
 BACCHANALIA AND LIBERALIA FESTIVALS
-
 
 The Romans called the feasts of Bacchus, Bacchanalia
 and Liberalia, because Bacchus and Liber were the names
@@ -1286,11 +1250,8 @@ rites, and from thence the Bacchanals drew their original;
 and from the feasts instituted by Isis came the orgies of
 Bacchus.
 
-
-
-
+.h2
 DRUID AND HEBREW FAITHS
-
 
 It seems not at all improbable that the deities worshipped
 by the ancient Britons and the Irish, were no
@@ -1420,11 +1381,8 @@ show that the temples erected at Stonehenge and other
 places, were of a Phœnician origin, which was simply
 a temple of the god Bacchus.
 
-
-
-
+.h2
 STONEHENGE A TEMPLE OF BACCHUS
-
 
 Of all the nations of antiquity the Persians were the
 most simple and direct in the worship of the Creator.
@@ -1551,11 +1509,8 @@ as Pliny observes, sacred to the sun, whose rays they
 represented both by their form and name.--<i>Payne Knight’s
 Worship of Priapus.</i>
 
-
-
-
+.h2
 BUNS AND RELIGIOUS CAKES
-
 
 Says Hyslop:--“The hot cross-buns of Good Friday,
 and the dyed eggs of Pasch or Easter Sunday, figured in
@@ -1623,11 +1578,8 @@ Limousin, and especially at Brives; while the female
 emblem was adopted at Clermont, in Auvergne, and other
 places.
 
-
-
-
+.h2
 THE ARK AND GOOD FRIDAY
-
 
 The ark of the covenant was a most sacred symbol in
 the worship of the Jews, and like the sacred boat, or
@@ -1785,12 +1737,8 @@ they would be unlucky all the rest of the year.”
 .bn 51.png
 .pn +1
 
-
-
-
-ARCHITECTURAL PILLARS DEVISED FROM THE
-LOTUS
-
+.h2
+ARCHITECTURAL PILLARS DEVISED FROM THE LOTUS
 
 The earliest capital seems to have been the bell or
 seed vessel, simply copied without alteration, except a
@@ -1846,11 +1794,8 @@ eggs and spear-heads, the symbols of female generation
 and male destructive power, or in the language of
 mythology, of Venus and Mars.--<i>Payne Knight.</i>
 
-
-
-
+.h2
 BELLS IN RELIGIOUS WORSHIP
-
 
 Stripped, however, of all this splendour and magnificence
 it was probably nothing more than a symbolical
@@ -1910,11 +1855,8 @@ and were worn on the garments of the Bacchantes, much
 in the same manner as they are used at our carnivals and
 masquerades.
 
-
-
-
+.h2
 HINDU PHALLICISM
-
 
 The following curious fable is given by Sir William
 Jones, as one of the stories of the Hindus for the origin of
@@ -2054,11 +1996,8 @@ Sheevah relented; but it was ordained that in his temples
 those parts should be <i>worshipped</i>, which the false doctrines
 had impiously attempted to destroy.”
 
-
-
-
+.h2
 THE CROSS AND ROSARY
-
 
 The key which is still worn with the Priapic hand, as an
 amulet, by the women of Italy appears to have been an
@@ -2089,11 +2028,8 @@ tell over while they pray.
 .bn 59.png
 .pn +1
 
-
-
-
+.h2
 BEADS
-
 
 Beads were anciently used to reckon time, and a circle,
 being a line without termination, was the natural emblem
@@ -2115,11 +2051,8 @@ worn by kings in either of the Homeric poems, nor of any
 other ensign of temporal power and command, except the
 royal staff or sceptre.
 
-
-
-
+.h2
 THE LOTUS
-
 
 The double sex typified by the Argha and its contents is
 by the Hindus represented by the “Mymphœa” or
@@ -2284,11 +2217,8 @@ first land said to have appeared, but with the Brahmins
 it is a disputed point, for many affirm that <i>Casi</i> or Benares
 was the sacred ground.
 
-
-
-
+.h2
 MERU
-
 
 The learned Higgins, an English judge, who for some
 years spent ten hours a day in antiquarian studies, says
@@ -2315,11 +2245,8 @@ or Arba.
 .bn 65.png
 .pn +1
 
-
-
-
+.h2
 LINGAM IN THE TEMPLE OF ELORA
-
 
 This marvellous work of excavation by the slow process
 of the chisel, was visited by Capt. Seeley, who afterwards
@@ -2405,11 +2332,8 @@ as the Phallus of the Greeks. Five lamps are commonly
 used in the worship at the symbol, or one lamp with five
 wicks. The Lotus is often seen on the top of the Ling.
 
-
-
-
+.h2
 VENUS-URANIA.--THE MOTHER GODDESS
-
 
 The characteristic attribute of the passive generative
 power was expressed in symbolical writing, by different
@@ -2481,12 +2405,8 @@ corner of the mouth and drawing it down, of which there
 is a representation in a small Priapic figure of exquisite
 sculpture, engraved among the <i>Antiquities of Herculaneum</i>.
 
-
-
-
-LIBERALITY AND SAMENESS OF THE
-WORLD-RELIGIONS
-
+.h2
+LIBERALITY AND SAMENESS OF THE WORLD-RELIGIONS
 
 The same liberal and humane spirit still prevails among
 those nations whose religion is founded on the same
@@ -2594,5 +2514,5 @@ Krishna, the incarnate Deity, in an ancient Indian poem
 (<i>Bhagavat-Gita</i>), “<i>worship me although they know it not</i>.”--<i>Payne
 Knight.</i>
 
-
-THE END.
+.ce
+<s>THE END.</s>
