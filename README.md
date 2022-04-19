@@ -29,6 +29,31 @@ No forum posts.
 
 ### Things to revisit ###
 
+Ligatures:
+
+- [x] ægis 52
+- [x] Æsculapius 13
+- [x] canephorœ 36
+- [x] Cæsar 37, 43
+- [x] Cyclopædia 26
+- [x] Hecatæus 43, 44
+- [x] hypœthral 42
+- [x] Judæa 22
+- [x] Kœmpfer 61
+- [x] Lacedæmonians 53
+- [x] Linnæus 60
+- [x] lunulæ 53
+- [x] Mænades 36
+- [x] Mymphœa 59
+- [x] Philœ 62
+- [x] Phœnicia 16, 20(x2), 38, 47
+- [x] Phœnician 11, 16, 21, 41, 43, 44
+- [x] Phœnicians 08, 16(x5), 30, 33, 40(x2), 58(x2)
+- [x] Phyrœtheia 41
+- [x] pyrœtheia 42 (are this and previous entry the same word?)
+
+[Forum post](https://www.pgdp.net/phpBB3/viewtopic.php?p=1276093#p1276093) - see responses.
+
 ### Proofer's notes ###
 
 ### Joined hyphenated words ###
