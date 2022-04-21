@@ -237,18 +237,18 @@ Scandinavians, while the Greeks represented the Phallus
 alone, and changed the personified attribute into a distinct
 deity, called Priapus.
 
-Phallus, or privy member (<i>membrum virile</i>), signifies,
+Phallus, or privy member (<lang="la"><i>membrum virile</i></lang>), signifies,
 “he breaks through, or passes into.” This word survives
-in German <i>pfahl</i>, and <i>pole</i> in English. Phallus is supposed
+in German <lang="de"><i>pfahl</i></lang>, and <lang="en"><i>pole</i></lang> in English. Phallus is supposed
 // 11.png
 .bn 11.png
 .pn +1
-to be of Phœnician origin, the Greek word <i>pallo</i>, or
-<i>phallo</i>, “to brandish preparatory to throwing a missile,”
+to be of Phœnician origin, the Greek word <lang="el"><i>pallo</i></lang>, or
+<lang="el"><i>phallo</i></lang>, “to brandish preparatory to throwing a missile,”
 is so near in assonance and meaning to Phallus, that one
 is quite likely to be parent of the other. In Sanskrit
-it can be traced to <i>phal</i>, “to burst,” “to produce,” “to
-be fruitful”; then, again, <i>phal</i> is “a ploughshare,” and
+it can be traced to <lang="sa"><i>phal</i></lang>, “to burst,” “to produce,” “to
+be fruitful”; then, again, <lang="sa"><i>phal</i></lang> is “a ploughshare,” and
 is also the name of Siva and Mahadeva, who are Hindu
 deities. Phallus, then, was the ancient emblem of
 creation: a divinity who was companion to Bacchus.
@@ -417,7 +417,7 @@ fallen on his knees to make his adorations, and so depart.
 In various parts of the Bible the Pillar is referred to as
 of a sacred character, as in Isaiah xix. 19, 20, “In that
 day shall there be an altar to Jehovah in the midst of the
-land of Egypt, and a <i>pillar</i> at the border thereof to Jehovah,
+land of Egypt, and a <em>pillar</em> at the border thereof to Jehovah,
 and it should be for a sign and a witness to the Lord.”
 
 The Orphic Temples were doubtless emblems of the
@@ -425,7 +425,7 @@ same principle of the mystic faiths of the ancients, the
 same as the Round Towers of Ireland, a history of which
 was collected by O’Brien, who describes the Towers as
 “Temples constructed by the early Indian colonists
-of the country in honour of the <i>Fructifying</i> principle of
+of the country in honour of the <em>Fructifying</em> principle of
 nature, emanating as was supposed from the Sun, or the
 deity of desire instrumental in that principle of universal
 generativeness diffused throughout all nature.”
@@ -505,7 +505,7 @@ depicted with the male genital erect. The great temple
 at Karnak is, in particular, full of such figures, and the
 temple of Danclesa likewise, though that is of much later
 date, and built merely in imitation of old Egyptian art.
-The same inspiring <i>bas-reliefs</i> are pointed out by Ezek.
+The same inspiring <lang="fr"><i>bas-reliefs</i></lang> are pointed out by Ezek.
 // 18.png
 .bn 18.png
 .pn +1
@@ -534,7 +534,7 @@ system. In the analysis of the subject by Rawlinson,
 we find the Trinity consisted of Asshur or Asher, associated
 with Anu and Hea or Hoa. Asshur, the supreme god of
 the Assyrians, represents the Phallus or central organ
-or the Linga, the <i>membrum virile</i>. The cognomen Anu
+or the Linga, the <lang="la"><i>membrum virile</i></lang>. The cognomen Anu
 was given to the right testis, while that of Hea designated
 the left.
 
@@ -676,14 +676,14 @@ earliest forms of faith will lift the veil and explain the
 mystery.
 
 India, China, and Egypt have furnished the world with
-a <i>genus</i> of religion. Time and culture have divided and
+a <lang="la"><i>genus</i></lang> of religion. Time and culture have divided and
 modified it into many species and countless varieties.
 However much the imagination was allowed to play upon
 it, the animus of that religion was sexuality—worship
 of the generative principle of man and nature, male and
 female. The cross became the emblem of the male
-feature, under the term of the <i>triad</i>—three in one. The
-female was the <i>unit</i>; and, joined to the male triad, constituted
+feature, under the term of the <em>triad</em>—three in one. The
+female was the <em>unit</em>; and, joined to the male triad, constituted
 a sacred four. Rites and adoration were sometimes
 paid to the male, sometimes to the female, or to the two
 in one.
@@ -702,16 +702,16 @@ The cross was also used by the ancient Druids, who held
 it as a sacred emblem. In Egypt it stood for the signification
 of eternal life. Schedeus describes it as customary
 for the Druids “to seek studiously for an oak tree, large
-and handsome, growing up with <i>two principal arms in
-the form of a cross</i>, besides the main stem upright. If
+and handsome, growing up with <em>two principal arms in
+the form of a cross</em>, besides the main stem upright. If
 the two horizontal arms are not sufficiently adapted to
-the figure, they fasten a <i>cross-beam</i> to it. This tree they
+the figure, they fasten a <em>cross-beam</em> to it. This tree they
 consecrate in this manner: Upon the right branch they
 cut in the bark, in fair characters, the word ‘Hesus’;
 upon the middle, or upright stem, the word ‘Taranius’;
 upon the left branch ‘Belenus’; over this, above the
-going off of the arms, they cut the name of the god <i>Thau</i>;
-under all, the same repeated, <i>Thau</i>.”
+going off of the arms, they cut the name of the god <em>Thau</em>;
+under all, the same repeated, <em>Thau</em>.”
 
 .h2
 YONI
@@ -741,7 +741,7 @@ female organs of generation were revered as symbols
 of the generative powers of nature or of matter, as those
 of the male were of the generative powers of God. They
 are usually represented emblematically by the shell
-<i>Concna[**Concha?] Veneris</i>, which was therefore worn by devout
+<lang="la"><i>Concha Veneris</i></lang>, which was therefore worn by devout
 persons of antiquity, as it still continues to be by the
 pilgrims of many of the common people of Italy” (“On
 the worship of Priapus,” p. 28).
@@ -751,25 +751,25 @@ is supplied with types and representative figures of himself,
 so the female feature is furnished with substitutes and
 typical imagery of herself.
 
-One of these is technically known as the <i>sistrum</i> of
+One of these is technically known as the <lang="la"><i>sistrum</i></la> of
 Isis. It is the virgin’s symbol. The bars across the
-<i>fenestrum</i>, or opening, are bent so that they cannot be
+<lang="la"><i>fenestrum</i></lang>, or opening, are bent so that they cannot be
 taken out, and indicate that the door is closed. It signifies
-that the mother is still <i>virgo intacta</i>—a truly immaculate
+that the mother is still <lang="la"><i>virgo intacta</i></lang>—a truly immaculate
 female—if the truth can be strained to so denominate
-a <i>mother</i>. The pure virginity of the Celestial Mother
+a <em>mother</em>. The pure virginity of the Celestial Mother
 was a tenet of faith for 2,000 years before the accepted
 Virgin Mary now adored was born. We might infer
 that Solomon was acquainted with the figure of the
-<i>sistrum</i>, when he said, “A garden enclosed is my spouse,
-a spring shut up, a <i>fountain sealed</i>” (Song of Sol. iv. 12).
-The <i>sistrum</i>, we are told, was only used in the worship
+<lang="la"><i>sistrum</i></lang>, when he said, “A garden enclosed is my spouse,
+a spring shut up, a <em>fountain sealed</em>” (Song of Sol. iv. 12).
+The <lang="la"><i>sistrum</i></lang>, we are told, was only used in the worship
 of Isis, to drive away Typhon (evil).
 
 The Argha is a contrite form, or boat-shaped dish or
 plate used as a sacrificial cup in the worship of Astarte,
 Isis, and Venus. Its shape portrays its own significance.
-The Argha and <i>crux ansata</i> were often seen on Egyptian
+The Argha and <lang="la"><i>crux ansata</i></lang> were often seen on Egyptian
 monuments, and yet more frequently on bas-reliefs.
 // 25.png
 .bn 25.png
@@ -802,8 +802,8 @@ Neptoah is Hebrew for “the vulva,” and, Al or El being
 God, one of the unavoidable renderings of Naphtali is
 “the Yoni is my God,” or “I worship the Celestial
 Virgin.” The Philistine towns generally had names
-strongly connected with sexual ideas. Ashdod, <i>aish</i> or
-<i>esh</i>, means “fire, heat,” and <i>dod</i> means “love, to love,”
+strongly connected with sexual ideas. Ashdod, <em>aish</em> or
+<em>esh</em>, means “fire, heat,” and <em>dod</em> means “love, to love,”
 “boiled up,” “be agitated,” the whole signifying “the
 heat of love,” or “the fire which impels to union.”
 Could not those people exclaim, Our “God is love”?
@@ -836,13 +836,13 @@ mind the importance given to circumcision as a covenant
 between God and man. Another equally suggestive
 custom among the Patriarchs was the act of taking the
 oath, or making a sacred promise, which is commented
-upon by Dr. Ginsingburg in Kitto’s <i>Cyclopædia</i>. He says:
+upon by Dr. Ginsingburg in Kitto’s <cite>Cyclopædia</cite>. He says:
 “Another primitive custom which obtained in the
 patriarchal age was, that the one who took the oath put
 his hand under the thigh of the adjurer (Gen. xxiv. 2,
 and xlvii. 29). This practice evidently arose from the
 fact that the genital member, which is meant by the euphemistic
-expression <i>thigh</i>, was regarded as the most sacred
+expression <em>thigh</em>, was regarded as the most sacred
 part of the body, being the symbol of union in the tenderest
 relation of matrimonial life, and the seat whence all issue
 // 27.png
@@ -851,7 +851,7 @@ relation of matrimonial life, and the seat whence all issue
 proceeds and the perpetuity so much coveted by the
 ancients. Compare Gen. xlvi. 26; Exod. i. 5; Judges
 vii. 30. Hence the creative organ became the symbol
-of the <i>Creator</i>, and the object of worship among all
+of the <em>Creator</em>, and the object of worship among all
 nations of antiquity. It is for this reason that God
 claimed it as a sign of the covenant between himself
 and his chosen people in the rite of circumcision. Nothing
@@ -906,7 +906,7 @@ Ashera, or sacred groves here alluded to are named
 from the goddess Ashtaroth, which Dr. Smith describes
 as the proper name of the goddess; while Ashera is the
 name of the image of the goddess. Rawlinson, in his
-<i>Five Great Monarchies of the Ancient World</i>, describes
+<cite>Five Great Monarchies of the Ancient World</cite>, describes
 Ashera to imply something that stood straight up, and
 probably its essential element was the stem of a tree,
 an analogy suggestive of the Assyrian emblem of the
@@ -963,22 +963,22 @@ Jews addressed their devotions. He says, “It should
 .bn 30.png
 .pn +1
 not be, but I fear it is, necessary to explain to mere English
-readers of the Old Testament that the <i>Stone</i> or <i>Rock Tsur</i>
-was <i>the real old god of all Arabs, Jews, and Phœnicians</i>,
+readers of the Old Testament that the <em>Stone</em> or <em>Rock Tsur</em>
+was <em>the real old god of all Arabs, Jews, and Phœnicians</em>,
 that this would be clear to Christians were the Jewish
 writings translated according to the first ideas of the
-people and <i>Rock</i> used as it ought to be, instead of ‘God,’
-‘Theos,’ ‘Lord,’ etc., being written where Tsur occurs.
+people and <em>Rock</em> used as it ought to be, instead of ‘God,’
+‘Theos,’ ‘Lord,’ etc., being written where Tsur occurs.”
 Numerous instances of this are given in Dr. Ort’s worship
 of Baal in Israel, where praises, addresses, and adorations
-are addressed to the <i>Rock</i>, instance, Deut. xxxii. 4, 18.
+are addressed to the <em>Rock</em>, instance, Deut. xxxii. 4, 18.
 Stone pillars were also used by the Hebrews as a memorial
 of a sacred covenant, for we find Jacob setting up a pillar
 as a witness, that he would not pass over it. Connected
 with this pillar worship is the ceremony of anointing
 by pouring oil upon the pillar, as practised by Jacob
-at Bethel. According to Sir W. Forbes, in his <i>Oriental
-Memoirs</i>, the ”pouring of oil upon a stone is practised
+at Bethel. According to Sir W. Forbes, in his <cite>Oriental
+Memoirs</cite>, the “pouring of oil upon a stone is practised
 at this day upon many a shapeless stone throughout
 Hindostan.”
 
@@ -1014,7 +1014,7 @@ Eli lay with the women that assembled at the door of the
 tabernacle of the congregation.”
 
 Words and history corroborate each other, or are apt
-to do so if contemporaneous. Thus <i>kadesh</i>, or <i>kaesh</i>,
+to do so if contemporaneous. Thus <lang="he"><i>kadesh</i></lang>, or <lang="he"><i>kaesh</i></lang>,
 designate in Hebrew “a consecrated one,” and history
 tells the unworthy tale in descriptive plainness, as will
 be shown in the sequel.
@@ -1025,7 +1025,7 @@ refusal to listen to the priest was death to the offender.
 To us it is inconceivable that the indulgence of passion
 could be associated with religion, but so it was. Much
 as it is covered over by altered words and substituted
-expressions in the Bible—an example of which see <i>men</i>
+expressions in the Bible—an example of which see <em>men</em>
 for male organ, Ezek. xvi. 17—it yet stands out offensively
 bold. The words expressive of “sanctuary,” “consecrated,”
 and “Sodomite,” are in the Hebrew essentially
@@ -1058,7 +1058,7 @@ temple and the priests officiating therein.
 
 The temples of the Hindus in the Dekkan possessed
 their establishments. They had bands of consecrated
-dancing-girls called the <i>Women of the Idol</i>, selected in their
+dancing-girls called the <em>Women of the Idol</em>, selected in their
 infancy by the priests for the beauty of their persons, and
 trained up with every elegant accomplishment that could
 render them attractive.
@@ -1103,7 +1103,7 @@ valuable book issued a few years ago anonymously:
 “Mother Earth” is a legitimate expression, only of
 the most general type. Religious genius gave the female
 quality to the earth with a special meaning. When once
-the idea obtained that our world was <i>feminine</i>, it was
+the idea obtained that our world was <em>feminine</em>, it was
 easy to induce the faithful to believe that natural chasms
 were typical of that part which characterises woman.
 As at birth the new being emerges from the mother,
@@ -1134,7 +1134,7 @@ in the valleys under the clefts of the rocks.” It is possible
 that the “hole in the wall” (Ezek. viii. 7) had a similar
 signification. In modern Rome, in the vestibule of the
 church close to the Temple of Vesta, I have seen a large
-<i>perforated stone</i>, in the hole of which the ancient Romans
+<em>perforated stone</em>, in the hole of which the ancient Romans
 are said to have placed their hands when they swore a
 solemn oath, in imitation, or, rather, a counterpart, of
 Abraham swearing his servant upon his thigh—that is
@@ -1164,7 +1164,7 @@ countries that the famous Conajee Angria ventured by
 stealth, one night, upon the Island, on purpose to perform
 the ceremony, and got off undiscovered. The early
 Christians gave them a bad name, as if from envy; they
-called these holes “Cunni Diaboli” (<i>Anacalypsis</i>, p. 346)[**missing .]
+called these holes “Cunni Diaboli” (<cite>Anacalypsis</cite>, p. 346)[**missing .]
 #/
 
 .h2
@@ -1196,7 +1196,7 @@ The Bacchanalian feasts were celebrated in the latter part
 of October when the harvest was completed. Wine and
 figs were carried in the procession of the Bacchants, and
 lastly came the Phalli, followed by honourable virgins,
-called <i>canephorœ</i>, who carried baskets of fruit. These were
+called <lang="la"><i>canephorœ</i></lang>, who carried baskets of fruit. These were
 followed by a company of men who carried poles, at the
 end of which were figures representing the organ of
 generation. The men sung the Phallica and were crowned
@@ -1223,7 +1223,7 @@ licentiousness.
 Similar enthusiastic frenzy was exhibited at the Lupercalian
 Feasts instituted in honour of the god Pan (under
 the shape of a Goat) whose priests, according to Owen in
-his <i>Worship of Serpents</i>, on the morning of the Feast ran
+his <cite>Worship of Serpents</cite>, on the morning of the Feast ran
 naked through the streets, striking the married women
 they met on the hands and belly, which was held as an
 // 37.png
@@ -1266,8 +1266,8 @@ described the worship of the Cabiri to have come originally
 .bn 38.png
 .pn +1
 from Phœnicia. Higgins, in his History of the Druids,
-says, the supreme god above the rest was called <i>Seodhoc
-and Baal</i>[**ital. “and” unintentional?]. The name of Baal is found both in Wales,
+says, the supreme god above the rest was called <em>Seodhoc
+and Baal</em>[**ital. “and” unintentional?]. The name of Baal is found both in Wales,
 Gaul, and Germany, and is the same as the Hebrew Baal.
 
 The same god, according to O’Brien, was the chief deity
@@ -1295,7 +1295,7 @@ the II Book of Kings, where the Canaanites in their worship
 of Baal, are said to have passed their children through the
 fire of Baal, which seems to have been a common practice,
 as Ahaz, King of Israel, is blamed for having done the
-same thing. Higgins in his <i>Anacalypsis</i>, says this superstitious
+same thing. Higgins in his <cite>Anacalypsis</cite>, says this superstitious
 custom still continues, and that on “particular
 days great fires are lighted, and the fathers taking the
 children in their arms, jump or run through them, and
@@ -1412,7 +1412,7 @@ probably enclosures like those of the Persians, with an
 .bn 42.png
 .pn +1
 altar in the centre. The temples dedicated to the creator
-Bacchus, which the Greek architects called <i>hypœthral</i>,
+Bacchus, which the Greek architects called <lang="el"><i>hypœthral</i></lang>,
 seem to have been anciently of this kind, whence probably
 came the title (“surround with columns”) attributed
 to that god in the Orphic litanies. The remains of one of
@@ -1425,15 +1425,15 @@ personification of the sun. The architecture is of the
 Roman times; but the ground plan is probably that of a
 very ancient one, which this was made to replace—for
 it exactly resembles that of a Celtic temple in Zeeland,
-published in Stukeley’s <i>Itinerary</i>. The ranges of square
+published in Stukeley’s <cite>Itinerary</cite>. The ranges of square
 buildings which enclose it are not properly parts of the
 temple, but apartments of the priests, places for victims
 and sacred utensils, and chapels dedicated to the subordinate
 deities, introduced by a more complicated and
 corrupt worship and probably unknown to the founder
 of the original edifice. The portico, which runs parallel
-with these buildings, encloses the <i>temenss</i>[**temenos ?], or area of
-sacred ground, which in the <i>pyrœtheia</i> of the Persians was
+with these buildings, encloses the <lang="el"><i>temenos</i></lang>, or area of
+sacred ground, which in the <em>pyrœtheia</em> of the Persians was
 circular, but is here quadrangular, as in the Celtic temple
 in Zeeland, and the Indian pagoda before described.
 In the centre was the holy of holies, the seat of the god,
@@ -1465,10 +1465,10 @@ Siculus, it seems evident that Stonehenge and all the monuments
 of the same kind found in the north, belong to the
 same religion which appears at some remote period to
 have prevailed over the whole northern hemisphere.
-According to that ancient historian, <i>the Hyperboreans
+According to that ancient historian, <cite>the Hyperboreans
 inhabited an island beyond Gaul, as large as Sicily, in which
 Apollo was worshipped in a circular temple considerable for
-its size and riches</i>. Apollo, we know, in the language of
+its size and riches</cite>. Apollo, we know, in the language of
 the Greeks of that age, can mean no other than the sun,
 which according to Cæsar was worshipped by the Germans,
 when they knew of no other deities except fire and the
@@ -1506,8 +1506,8 @@ large obelisks of stone found in many parts of the north,
 such as those at Rudstone, and near Boroughbridge, in
 Yorkshire, belong to the same religion; obelisks being,
 as Pliny observes, sacred to the sun, whose rays they
-represented both by their form and name.—<i>Payne Knight’s
-Worship of Priapus.</i>
+represented both by their form and name.—<cite>Payne Knight’s
+Worship of Priapus.</cite>
 
 .h2
 BUNS AND RELIGIOUS CAKES
@@ -1523,7 +1523,7 @@ Queen of Heaven, the goddess Easter (Ishtar or Astarte),
 as early as the days of Cecrops, the founder of Athens,
 1,500 years before the Christian era.” “One species of
 bread,” says Bryant, “‘which used to be offered to the
-gods, was of great antiquity, and called <i>Boun</i>.’ Diogenes
+gods, was of great antiquity, and called <em>Boun</em>.’ Diogenes
 mentioned ‘they were made of flour and honey.’” It
 appears that Jeremiah the Prophet was familiar with this
 lecherous worship. He says:—“The children gather
@@ -1543,7 +1543,7 @@ fair one.
 
 Captain Wilford (“Asiatic Researches,” viii., p. 365)
 says:—“When the people of Syracuse were sacrificing to
-goddesses, they offered cakes called <i>mulloi</i>, shaped like the
+goddesses, they offered cakes called <em>mulloi</em>, shaped like the
 female organ, and in some temples where the priestesses
 were probably ventriloquists, they so far imposed on the
 credulous multitude who came to adore the Vulva as to
@@ -1561,11 +1561,11 @@ in the neighbourhood of La Rochelle, small cakes baked in
 the form of the Phallus are made as offerings at Easter,
 carried and presented from house to house. Dulare
 states that in his time the festival of Palm Sunday, in the
-town of Saintes, was called <i>le fete des pinnes</i>—feast of the
+town of Saintes, was called <lang="fr"><i>le fete des pinnes</i></lang>—feast of the
 privy members—and that during its continuance the
 women and children carried in the procession a Phallus
-made of bread, which they called a <i>pinne</i>, at the end of their
-palm branches; these <i>pinnes</i> were subsequently blessed
+made of bread, which they called a <lang="fr"><i>pinne</i></lang>, at the end of their
+palm branches; these <lang="fr"><i>pinnes</i></lang> were subsequently blessed
 by priests, and carefully preserved by the women during
 the year. Palm Sunday![**typographer error?] Palm, it is to be remembered,
 is a euphemism of the male organ, and it is curious to see
@@ -1694,7 +1694,7 @@ at Easter, which is a further parallelism of the Christian
 and Pagan festivals. The author also draws a further
 conclusion—that the cakes or buns have in reality a
 Phallic origin, for in France and other parts, the Easter
-cakes were called after the <i>membrum virile</i>. The writer
+cakes were called after the <lang="la"><i>membrum virile</i></lang>. The writer
 says:—“In the primitive Teutonic mythology, there
 was a female deity named in old German, Ostara, and in
 Anglo-Saxon, Eastre or Eostre; but all we know of her
@@ -1792,7 +1792,7 @@ ornament is also introduced in this capital, which they
 call eggs and anchors, but which is, in fact, composed of
 eggs and spear-heads, the symbols of female generation
 and male destructive power, or in the language of
-mythology, of Venus and Mars.—<i>Payne Knight.</i>
+mythology, of Venus and Mars.—<cite>Payne Knight.</cite>
 
 .h2
 BELLS IN RELIGIOUS WORSHIP
@@ -1814,9 +1814,9 @@ the new moon with such noises, which the simplicity of
 the early ages employed almost everywhere to relieve
 her during eclipses, supposed then to be morbid affections
 brought on by the influence of an adverse power. The
-title <i>Priapus</i>, by which the generative attribute is distinguished,
-seems to be merely a corruption of <i>Briapuos</i>
-(clamorous); the <i>beta</i> and <i>pi</i> being commutable letters,
+title <lang="el"><i>Priapus</i></lang>, by which the generative attribute is distinguished,
+seems to be merely a corruption of <lang="el"><i>Briapuos</i></lang>
+(clamorous); the <em>beta</em> and <em>pi</em> being commutable letters,
 and epithets of similar meaning, being continually applied
 both to Jupiter and Bacchus by the poets. Many
 Priapic figures, too, still extant, have bells attached to
@@ -1993,7 +1993,7 @@ implored him to suspend his wrath. At his entreaties
 .bn 58.png
 .pn +1
 Sheevah relented; but it was ordained that in his temples
-those parts should be <i>worshipped</i>, which the false doctrines
+those parts should be <em>worshipped</em>, which the false doctrines
 had impiously attempted to destroy.”
 
 .h2
@@ -2003,7 +2003,7 @@ The key which is still worn with the Priapic hand, as an
 amulet, by the women of Italy appears to have been an
 emblem of the equivocal use of the name, as the language
 of that country implies. Of the same kind, too, appears to
-have been the cross in the form of the letter <i>tau</i>, attached
+have been the cross in the form of the letter <em>tau</em>, attached
 to a circle, which many of the figures of Egyptian deities,
 both male and female, carry in their left hand; and by the
 Syrians, Phœnicians and other inhabitants of Asia,
@@ -2090,7 +2090,7 @@ is yet continued among the modern Egyptians. And
 we find that it still continues to receive the respect if
 not the adoration of a great part of the Christian world,
 unconscious, perhaps, of the original reason of this
-conduct. <i>Higgins’s Anacalypsis.</i>
+conduct. <cite>Higgins’s Anacalypsis.</cite>
 
 The following is an account given of it by Payne
 Knight, in his curious dissertation on Phallic Worship:—“The
@@ -2116,7 +2116,7 @@ productive power of the waters, upon which the active
 spirit of the Creator operated in giving life and vegetation,
 to matter. We accordingly find it employed in every
 part of the northern hemisphere, where the symbolical
-religion, <i>improperly called idolatry</i>, does or ever did prevail.
+religion, <em>improperly called idolatry</em>, does or ever did prevail.
 The sacred images of the Tartars, Japanese, and Indians
 are almost placed upon it, of which numerous instances
 occur in the publications of Kœmpfer, Sonnerat, etc.
@@ -2171,7 +2171,7 @@ primeval water did Bhagavat (God), in a masculine
 form, repose for the space of one Calpho (a thousand
 years); after which period the intention of creating
 other beings for his own wise purposes became predominant
-in the mind of the <i>Great Creator</i>. In the first
+in the mind of the <em>Great Creator</em>. In the first
 // 63.png
 .bn 63.png
 .pn +1
@@ -2192,16 +2192,16 @@ his mind that without connection of male and female an
 abundant generation could not be effected—again entered
 into profound meditation on the power of the Supreme,
 when, on a sudden by the omnipotence of God, was
-produced from his right side <i>Swayambhuvah Menu</i>, a man
+produced from his right side <em>Swayambhuvah Menu</em>, a man
 of perfect beauty; and from the Brahma’s left side a
-woman named <i>Satarupa</i>. The prayer of Brahma runs
+woman named <em>Satarupa</em>. The prayer of Brahma runs
 thus:—‘O Bhagavat! since thou broughtest me from
 nonentity into existence for a particular purpose,
 accomplish by thy benevolence that purpose.’ In a
 short time a small white boar appeared, which soon
 grew to the size of an elephant. He now felt God in all,
 and that all is from Him, and all in Him. At length the
-power of the Omnipotent had assumed the body of <i>Vara</i>.
+power of the Omnipotent had assumed the body of <em>Vara</em>.
 He began to use the instinct of that animal. Having
 divided the water, he saw the earth a mighty barren
 stratum. He then took up the mighty ponderous globe
@@ -2212,9 +2212,9 @@ exceedingly, began to consider the means of peopling
 // 64.png
 .bn 64.png
 .pn +1
-the renovated world.” <i>Pyag</i>, now Allahabad, was the
+the renovated world.” <em>Pyag</em>, now Allahabad, was the
 first land said to have appeared, but with the Brahmins
-it is a disputed point, for many affirm that <i>Casi</i> or Benares
+it is a disputed point, for many affirm that <em>Casi</em> or Benares
 was the sacred ground.
 
 .h2
@@ -2225,7 +2225,7 @@ years spent ten hours a day in antiquarian studies, says
 that Moriah, of Isaiah and Abraham, is the Meru of the
 Hindus, and the Olympus of the Greeks. Solomon
 built high places for Ashtoreth, Astarte, or Venus, which
-because mounts of Venus, <i>mons veneris</i>—Meru and Mount
+because mounts of Venus, <lang="la"><i>mons veneris</i></lang>—Meru and Mount
 Calvary—each a slightly skull-shaped mount, that might
 be represented by a bare head. The Bible translators
 perpetuate the same idea in the word “calvaria.” Prof.
@@ -2233,7 +2233,7 @@ Stanley denies that “Mount Calvary” took its name
 from its being the place of the crucifixion of Jesus.
 Looking elsewhere and in earlier times for the bare calvaria,
 we find among Oriental women, the Mount of Venus,
-<i>mons veneris</i>, through motives of neatness or religious
+<lang="la"><i>mons veneris</i></lang>, through motives of neatness or religious
 sentiment, deprived of all hirsute appendage. We see
 Mount Calvary imitated in the shaved poll of the head of
 a priest. The priests of China, says Mr. J. M. Peebles,
@@ -2325,9 +2325,9 @@ frequently met with as the Cross in Catholic worship.”
 It is the god Siva, a symbol of his generative character,
 the base of which is usually inserted in the Yoni. The
 stone is of a conical shape, often black stone, covered
-with flowers (the <i>Belia</i> and <i>Asuca</i> shrubs). The flowers
+with flowers (the <em>Belia</em> and <em>Asuca</em> shrubs). The flowers
 hang pendant from the crown of the Ling stone to the
-spout of the <i>Argha or[**remove markup?] Yoni</i> (mystical matrix); the same
+spout of the <em>Argha or[**remove markup?] Yoni</em> (mystical matrix); the same
 as the Phallus of the Greeks. Five lamps are commonly
 used in the worship at the symbol, or one lamp with five
 wicks. The Lotus is often seen on the top of the Ling.
@@ -2339,7 +2339,7 @@ The characteristic attribute of the passive generative
 power was expressed in symbolical writing, by different
 enigmatical representations of the most distinguished
 characteristic of the female sex: such as the shell or
-<i>Concha Veneris</i>, the fig-leaf, barley corn, and the letter
+<lang="la"><i>Concha Veneris</i></lang>, the fig-leaf, barley corn, and the letter
 Delta, all of which occur very frequently upon coins and
 other ancient monuments in this sense. The same
 attribute personified as the goddess of Love, or desire,
@@ -2359,7 +2359,7 @@ to have been known in the Homeric times; though a
 different one is employed to account for the name of
 Aphrodite in the “Theogony” attributed to Hesiod.
 
-The <i>Genelullides</i> or <i>Genoidai</i> were the original and
+The <em>Genelullides</em> or <em>Genoidai</em> were the original and
 appropriate ministers or companions of Venus, who was
 however, afterwards attended by the Graces, the proper
 and original attendants of Juno; but as both these
@@ -2397,13 +2397,13 @@ and still continuing among the common people of Italy
 to be an emblem of what it anciently meant: whence
 we often see portraits of persons of that country painted
 with it in one hand, to signify their orthodox elevation to
-the fair sex. Hence, also arose the Italian expression <i>far la
-fica</i>, which was done by putting the thumb between the
+the fair sex. Hence, also arose the Italian expression <lang="it"><i>far la
+fica</i></lang>, which was done by putting the thumb between the
 middle and fore-fingers, as it appears in many Priapic ornaments
 extant; or by putting the finger or thumb into the
 corner of the mouth and drawing it down, of which there
 is a representation in a small Priapic figure of exquisite
-sculpture, engraved among the <i>Antiquities of Herculaneum</i>.
+sculpture, engraved among the <cite>Antiquities of Herculaneum</cite>.
 
 .h2
 LIBERALITY AND SAMENESS OF THE WORLD-RELIGIONS
@@ -2457,7 +2457,7 @@ creed—like that of the Greeks and Romans—remains
 undefined, it admits of no dogmatical theology, and of
 course no persecution for opinion. Obscure and
 sanguinary rites have, indeed, been wisely prescribed on
-many occasions; but still <i>as actions and not as opinions</i>.
+many occasions; but still <em>as actions and not as opinions</em>.
 Atheism is said to have been punished with death at
 Athens; but nevertheless it may be reasonably doubted
 // 71.png
@@ -2483,9 +2483,9 @@ as to the forms and ceremonies of devotion, they were
 held to be no otherwise important, then as they were
 constituted a part of civil government of the state; the
 Phythian[** Pythian?] priestess having pronounced from the tripod,
-that <i>whoever performed the rites of his religion according to the
+that <em>whoever performed the rites of his religion according to the
 laws of his country, performed them in a manner pleasing to the
-Deity</i>. Hence the Romans made no alterations in the
+Deity</em>. Hence the Romans made no alterations in the
 religious institutions of any of the conquered countries;
 but allowed the inhabitants to be as absurd and extravagant
 as they pleased, and to enforce their absurdities and
@@ -2509,10 +2509,10 @@ and expanded. The polytheist of ancient Greece and
 Rome candidly thought, like the modern Hindu, that all
 rites of worship and forms of devotion were directed
 to the same end, though in different modes and through
-different channels. “<i>Even they who worship other gods</i>,” says
+different channels. “<em>Even they who worship other gods</em>,” says
 Krishna, the incarnate Deity, in an ancient Indian poem
-(<i>Bhagavat-Gita</i>), “<i>worship me although they know it not</i>.”—<i>Payne
-Knight.</i>
+(<em>Bhagavat-Gita</em>), “<em>worship me although they know it not</em>.”—<cite>Payne
+Knight.</cite>
 
 .ce
 <s>THE END.</s>
