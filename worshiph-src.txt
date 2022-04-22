@@ -1852,8 +1852,12 @@ and were worn on the garments of the Bacchantes, much
 in the same manner as they are used at our carnivals and
 masquerades.
 
-[Footnote 1: The above description is from Payne Knight’s “Symbolical
-Language of ancient Art and Mythology.”]
+.fn 1
+The above description is from Payne Knight’s “Symbolical
+Language of ancient Art and Mythology.”
+.fn-
+
+.fm lz=th
 
 .h2
 HINDU PHALLICISM
