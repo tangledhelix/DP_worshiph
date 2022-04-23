@@ -1099,7 +1099,8 @@ EARTH MOTHER
 The following interesting chapter is taken from a
 valuable book issued a few years ago anonymously:
 
-/#
+.in +4
+.ll -4
 “Mother Earth” is a legitimate expression, only of
 the most general type. Religious genius gave the female
 quality to the earth with a special meaning. When once
@@ -1114,11 +1115,9 @@ was the sacredness of the chink, and the amount of virtue
 which was imparted by passing through it. From natural
 caverns being considered holy, the veneration for apertures
 in stones, as being equally symbolical, was a natural
-#/
 // 34.png
 .bn 34.png
 .pn +1
-/#
 transition. Holes, such as we refer to, are still to be seen
 in those structures which are called Druidical, both in
 the British Isles and in India. It is impossible to say
@@ -1152,11 +1151,9 @@ Island of Bombay, at Malabar Hill, there is a rock upon
 the surface of which there is a natural crevice, which
 communicates with a cavity opening below. This place
 is used by the Gentoos as a purification of their sins,
-#/
 // 35.png
 .bn 35.png
 .pn +1
-/#
 which they say is effected by their going in at the opening
 below, and emerging at the cavity above—“born again.”
 The ceremony is in such high repute in the neighbouring
@@ -1165,7 +1162,8 @@ stealth, one night, upon the Island, on purpose to perform
 the ceremony, and got off undiscovered. The early
 Christians gave them a bad name, as if from envy; they
 called these holes “Cunni Diaboli” (<cite>Anacalypsis</cite>, p. 346)[**missing .]
-#/
+.in
+.ll
 
 .h2
 BACCHANALIA AND LIBERALIA FESTIVALS
