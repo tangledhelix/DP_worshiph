@@ -2518,3 +2518,17 @@ Knight.</cite>
 
 .ce
 <s>THE END.</s>
+
+.tb
+
+.h2
+Transcriber's Notes
+
+Some inconsistencies in spelling, hyphenation, and punctuation have been
+retained.
+
+Obvious typographical errors have been corrected.
+
+.if t
+This file uses _underscores_ to indicate italic text.
+.if-
