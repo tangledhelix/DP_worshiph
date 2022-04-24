@@ -243,8 +243,8 @@ in German <lang="de"><i>pfahl</i></lang>, and <lang="en"><i>pole</i></lang> in E
 // 11.png
 .bn 11.png
 .pn +1
-to be of Phœnician origin, the Greek word <lang="el"><i>pallo</i></lang>, or
-<lang="el"><i>phallo</i></lang>, “to brandish preparatory to throwing a missile,”
+to be of Phœnician origin, the Greek word <lang="grc"><i>pallo</i></lang>, or
+<lang="grc"><i>phallo</i></lang>, “to brandish preparatory to throwing a missile,”
 is so near in assonance and meaning to Phallus, that one
 is quite likely to be parent of the other. In Sanskrit
 it can be traced to <lang="sa"><i>phal</i></lang>, “to burst,” “to produce,” “to
@@ -1410,7 +1410,7 @@ probably enclosures like those of the Persians, with an
 .bn 42.png
 .pn +1
 altar in the centre. The temples dedicated to the creator
-Bacchus, which the Greek architects called <lang="el"><i>hypœthral</i></lang>,
+Bacchus, which the Greek architects called <lang="grc"><i>hypœthral</i></lang>,
 seem to have been anciently of this kind, whence probably
 came the title (“surround with columns”) attributed
 to that god in the Orphic litanies. The remains of one of
@@ -1430,7 +1430,7 @@ and sacred utensils, and chapels dedicated to the subordinate
 deities, introduced by a more complicated and
 corrupt worship and probably unknown to the founder
 of the original edifice. The portico, which runs parallel
-with these buildings, encloses the <lang="el"><i>temenos</i></lang>, or area of
+with these buildings, encloses the <lang="grc"><i>temenos</i></lang>, or area of
 sacred ground, which in the <em>pyrœtheia</em> of the Persians was
 circular, but is here quadrangular, as in the Celtic temple
 in Zeeland, and the Indian pagoda before described.
@@ -1812,8 +1812,8 @@ the new moon with such noises, which the simplicity of
 the early ages employed almost everywhere to relieve
 her during eclipses, supposed then to be morbid affections
 brought on by the influence of an adverse power. The
-title <lang="el"><i>Priapus</i></lang>, by which the generative attribute is distinguished,
-seems to be merely a corruption of <lang="el"><i>Briapuos</i></lang>
+title <lang="grc"><i>Priapus</i></lang>, by which the generative attribute is distinguished,
+seems to be merely a corruption of <lang="grc"><i>Briapuos</i></lang>
 (clamorous); the <em>beta</em> and <em>pi</em> being commutable letters,
 and epithets of similar meaning, being continually applied
 both to Jupiter and Bacchus by the poets. Many
