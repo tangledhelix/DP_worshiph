@@ -156,7 +156,7 @@ shrines of Isis and Venus on the one hand, and of Bacchus
 and Priapus on the other, by appealing to the most
 animating passion of nature.
 
-.h2
+.h2 nobreak
 PHALLICISM
 
 This is the worship of the reproductive powers, the
@@ -219,7 +219,7 @@ abundantly in all Roman sites in our island. “They
 represent erotic scenes, in every sense of the word, with
 figures of Priapus and Phallic emblems.”
 
-.h2
+.h2 nobreak
 PHALLUS
 
 The Phallus, or Lingam, which stood for the image
@@ -262,7 +262,7 @@ being considered as sanctified persons, the women
 approach without scruple, nor is it thought that their
 modesty should be offended by it.”
 
-.h2
+.h2 nobreak
 SYMBOLS OR EMBLEMS
 
 The Phallus and its emblems were representative of the
@@ -316,7 +316,7 @@ without its Hebrew derivation being suspected.”
 .bn 13.png
 .pn +1
 
-.h2
+.h2 nobreak
 THE POLE
 
 The Pole was an emblem of the Phallus, and with the
@@ -383,7 +383,7 @@ Both were attended with the same licentiousness, for
 Stubbes gives a further account of the depravity attending
 the festivities.
 
-.h2
+.h2 nobreak
 PILLARS
 
 Another type of emblem was the stone pillar, remains of
@@ -460,7 +460,7 @@ Where the Phœnicians settled, there they introduced
 their religion, and it is in these countries we find the
 remains of ancient stone and pillar worship.
 
-.h2
+.h2 nobreak
 LOGGIN STONES, ETC.
 
 Loggin stones are by Payne Knight considered as
@@ -522,7 +522,7 @@ than at present. Stones, pillars, obelisks, stumps of
 trees, upright stones have all the same signification, and
 are means by which the male element was symbolised.
 
-.h2
+.h2 nobreak
 TRIADS
 
 The Triune idea is to be found in the system of almost
@@ -597,7 +597,7 @@ less obnoxious symbol, from the plain and self-evident
 to the mixed, disguised, and mystified, from the unclothed
 privy member to the cross.
 
-.h2
+.h2 nobreak
 THE CROSS
 
 The Triad, or Trinity, has been traced to Phœnicia,
@@ -713,7 +713,7 @@ upon the left branch ‘Belenus’; over this, above the
 going off of the arms, they cut the name of the god <em>Thau</em>;
 under all, the same repeated, <em>Thau</em>.”
 
-.h2
+.h2 nobreak
 YONI
 
 There is in Hindostan an emblem of great sanctity,
@@ -822,7 +822,7 @@ will go up the palm-tree, I will take hold of the boughs
 thereof” (vii. 8). Palm-tree and boughs are euphemisms
 of the male genitals.
 
-.h2
+.h2 nobreak
 HEBREW PHALLICISM
 
 The nations surrounding the Jews practising the
@@ -1093,7 +1093,7 @@ monotheistic character, but those who desire to have a
 further insight into the mysteries of the wars between the
 tribes should consult Bernstein’s valuable work.
 
-.h2
+.h2 nobreak
 EARTH MOTHER
 
 The following interesting chapter is taken from a
@@ -1165,7 +1165,7 @@ called these holes “Cunni Diaboli.” (<cite>Anacalypsis</cite>, p. 346)
 .in
 .ll
 
-.h2
+.h2 nobreak
 BACCHANALIA AND LIBERALIA FESTIVALS
 
 The Romans called the feasts of Bacchus, Bacchanalia
@@ -1248,7 +1248,7 @@ rites, and from thence the Bacchanals drew their original;
 and from the feasts instituted by Isis came the orgies of
 Bacchus.
 
-.h2
+.h2 nobreak
 DRUID AND HEBREW FAITHS
 
 It seems not at all improbable that the deities worshipped
@@ -1379,7 +1379,7 @@ show that the temples erected at Stonehenge and other
 places, were of a Phœnician origin, which was simply
 a temple of the god Bacchus.
 
-.h2
+.h2 nobreak
 STONEHENGE A TEMPLE OF BACCHUS
 
 Of all the nations of antiquity the Persians were the
@@ -1507,7 +1507,7 @@ as Pliny observes, sacred to the sun, whose rays they
 represented both by their form and name.—<cite>Payne Knight’s
 Worship of Priapus.</cite>
 
-.h2
+.h2 nobreak
 BUNS AND RELIGIOUS CAKES
 
 Says Hyslop:—“The hot cross-buns of Good Friday,
@@ -1576,7 +1576,7 @@ Limousin, and especially at Brives; while the female
 emblem was adopted at Clermont, in Auvergne, and other
 places.
 
-.h2
+.h2 nobreak
 THE ARK AND GOOD FRIDAY
 
 The ark of the covenant was a most sacred symbol in
@@ -1735,7 +1735,7 @@ they would be unlucky all the rest of the year.”
 .bn 51.png
 .pn +1
 
-.h2
+.h2 nobreak
 ARCHITECTURAL PILLARS DEVISED FROM THE LOTUS
 
 The earliest capital seems to have been the bell or
@@ -1792,7 +1792,7 @@ eggs and spear-heads, the symbols of female generation
 and male destructive power, or in the language of
 mythology, of Venus and Mars.—<cite>Payne Knight.</cite>
 
-.h2
+.h2 nobreak
 BELLS IN RELIGIOUS WORSHIP
 
 Stripped, however, of all this splendour and magnificence
@@ -1857,7 +1857,7 @@ Language of ancient Art and Mythology.”
 
 .fm lz=th
 
-.h2
+.h2 nobreak
 HINDU PHALLICISM
 
 The following curious fable is given by Sir William
@@ -1998,7 +1998,7 @@ Sheevah relented; but it was ordained that in his temples
 those parts should be <em>worshipped</em>, which the false doctrines
 had impiously attempted to destroy.”
 
-.h2
+.h2 nobreak
 THE CROSS AND ROSARY
 
 The key which is still worn with the Priapic hand, as an
@@ -2030,7 +2030,7 @@ tell over while they pray.
 .bn 59.png
 .pn +1
 
-.h2
+.h2 nobreak
 BEADS
 
 Beads were anciently used to reckon time, and a circle,
@@ -2053,7 +2053,7 @@ worn by kings in either of the Homeric poems, nor of any
 other ensign of temporal power and command, except the
 royal staff or sceptre.
 
-.h2
+.h2 nobreak
 THE LOTUS
 
 The double sex typified by the Argha and its contents is
@@ -2219,7 +2219,7 @@ first land said to have appeared, but with the Brahmins
 it is a disputed point, for many affirm that <em>Casi</em> or Benares
 was the sacred ground.
 
-.h2
+.h2 nobreak
 MERU
 
 The learned Higgins, an English judge, who for some
@@ -2247,7 +2247,7 @@ or Arba.
 .bn 65.png
 .pn +1
 
-.h2
+.h2 nobreak
 LINGAM IN THE TEMPLE OF ELORA
 
 This marvellous work of excavation by the slow process
@@ -2334,7 +2334,7 @@ as the Phallus of the Greeks. Five lamps are commonly
 used in the worship at the symbol, or one lamp with five
 wicks. The Lotus is often seen on the top of the Ling.
 
-.h2
+.h2 nobreak
 VENUS-URANIA.—THE MOTHER GODDESS
 
 The characteristic attribute of the passive generative
@@ -2407,7 +2407,7 @@ corner of the mouth and drawing it down, of which there
 is a representation in a small Priapic figure of exquisite
 sculpture, engraved among the <cite>Antiquities of Herculaneum</cite>.
 
-.h2
+.h2 nobreak
 LIBERALITY AND SAMENESS OF THE WORLD-RELIGIONS
 
 The same liberal and humane spirit still prevails among
