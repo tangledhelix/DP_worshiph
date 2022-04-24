@@ -1061,3 +1061,5 @@ Zilmissus
 
 Some inconsistencies in spelling, hyphenation, and punctuation have been
 retained.
+
+Obvious typographical errors have been corrected.

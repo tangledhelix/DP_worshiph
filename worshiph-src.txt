@@ -1161,7 +1161,7 @@ countries that the famous Conajee Angria ventured by
 stealth, one night, upon the Island, on purpose to perform
 the ceremony, and got off undiscovered. The early
 Christians gave them a bad name, as if from envy; they
-called these holes “Cunni Diaboli” (<cite>Anacalypsis</cite>, p. 346)[**missing .]
+called these holes “Cunni Diaboli.” (<cite>Anacalypsis</cite>, p. 346)
 .in
 .ll
 
@@ -1264,15 +1264,15 @@ described the worship of the Cabiri to have come originally
 .bn 38.png
 .pn +1
 from Phœnicia. Higgins, in his History of the Druids,
-says, the supreme god above the rest was called <em>Seodhoc
-and Baal</em>[**ital. “and” unintentional?]. The name of Baal is found both in Wales,
+says, the supreme god above the rest was called <em>Seodhoc</em>
+and <em>Baal</em>. The name of Baal is found both in Wales,
 Gaul, and Germany, and is the same as the Hebrew Baal.
 
 The same god, according to O’Brien, was the chief deity
 of the Irish, in whose honour the round towers were
 erected, which structures the ancient Irish themselves
 designated Bail-toir, or the towers of Baal. In Numbers,
-xxii[**P3: .], will be found a mention of a similar pillar consecrated
+xxii., will be found a mention of a similar pillar consecrated
 to Baal. Many of the same customs and superstitions
 that existed among the Druids and ancient Irish, will
 likewise be found among the Israelites. On the first
@@ -1280,7 +1280,7 @@ day of May, the Irish made great fires in honour of Baal,
 likewise offering him sacrifices. A similar account is
 given of a custom of the Druids by Toland, in an account
 of the festival of the fires; he says:—“on May-day eve
-the Druids made prodigious fires on these carns[**P3: cairns], which
+the Druids made prodigious fires on these cairns, which
 being everyone in sight of some other, could not but
 afford a glorious show over a whole nation.” These
 fires are said to be lit even to the present day by the
@@ -1330,7 +1330,7 @@ temples. These early rude stones, emblems of the
 Creator, were erected by the Israelites, which in no way
 differed from the erections of the Gentiles. It will be
 found that the Jews to commemorate a great victory,
-or to bear witness of the Lord, were all signfied[**P3: signified] by stones:
+or to bear witness of the Lord, were all signified by stones:
 thus, Joshua erected a stone to bear witness; Jacob
 put up a stone to make a place sacred; Abel set up the
 same for a place of worship; Samuel erected a stone as
@@ -1565,7 +1565,7 @@ women and children carried in the procession a Phallus
 made of bread, which they called a <lang="fr"><i>pinne</i></lang>, at the end of their
 palm branches; these <lang="fr"><i>pinnes</i></lang> were subsequently blessed
 by priests, and carefully preserved by the women during
-the year. Palm Sunday![**typographer error?] Palm, it is to be remembered,
+the year. Palm Sunday! Palm, it is to be remembered,
 is a euphemism of the male organ, and it is curious to see
 it united with the Phallus in Christendom. Dulare also
 says that, in some of the earlier inedited French books on
@@ -2281,7 +2281,7 @@ usual, occupying with the altar, a great part of the room.
 In most Ling rooms a sufficient space is left for the votaries
 to walk round whilst making the usual invocations to the
 deity (Maha Deo). This deity is much frequented by
-female votaries, who take especial care to keep it clean[**P3: ,]
+female votaries, who take especial care to keep it clean,
 // 66.png
 .bn 66.png
 .pn +1
@@ -2329,7 +2329,7 @@ the base of which is usually inserted in the Yoni. The
 stone is of a conical shape, often black stone, covered
 with flowers (the <em>Belia</em> and <em>Asuca</em> shrubs). The flowers
 hang pendant from the crown of the Ling stone to the
-spout of the <em>Argha or[**remove markup?] Yoni</em> (mystical matrix); the same
+spout of the <em>Argha</em> or <em>Yoni</em> (mystical matrix); the same
 as the Phallus of the Greeks. Five lamps are commonly
 used in the worship at the symbol, or one lamp with five
 wicks. The Lotus is often seen on the top of the Ling.
@@ -2352,7 +2352,7 @@ of rather uncertain mythology. She is said to be the
 daughter of Jupiter and Dione, that is of the male and
 female personifications of the all-pervading Spirit of the
 Universe; Dione being the female Dis or Zeus, and therefore
-associated with him in the most ancient oracular[**I believe this is supposed to be “oracular”, but unsure]
+associated with him in the most ancient oracular
 // 68.png
 .bn 68.png
 .pn +1
@@ -2448,7 +2448,7 @@ of his creatures; and we adore, they say, the same God, to
 whom our several worships, though different in form, are
 equally acceptable if they be sincere in substance.”
 
-The Chinese sacrifice to the spirits of the air[** ,] the
+The Chinese sacrifice to the spirits of the air, the
 mountains and the rivers; while the Emperor himself
 sacrifices to the sovereign Lord of Heaven, to whom all
 these spirits are subordinate, and from whom they are
@@ -2484,7 +2484,7 @@ word against the populace that worshipped them; and
 as to the forms and ceremonies of devotion, they were
 held to be no otherwise important, then as they were
 constituted a part of civil government of the state; the
-Phythian[** Pythian?] priestess having pronounced from the tripod,
+Pythian priestess having pronounced from the tripod,
 that <em>whoever performed the rites of his religion according to the
 laws of his country, performed them in a manner pleasing to the
 Deity</em>. Hence the Romans made no alterations in the
