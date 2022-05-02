@@ -1,0 +1,55 @@
+PPV Summary for dlowe
+
+    Number of books post-processed by dlowe (including this one): 9
+
+
+Project Information
+
+    projectID: projectID5f7c95f6bda5b
+    Title: Phallic Worship
+    Author: anon.
+    Language: English
+    Proofreading Difficulty: easy
+    Number of pages: 72
+    Post-processed by: dlowe
+    Verified by: ******
+    Verified on: 2nd of May, 2022
+    Submitted by PP on: 28-Apr-2022
+
+General Post-Processing Information
+
+    PPing Difficulty: Average
+    Overall evaluation of PPer's work: Excellent
+
+PPing Complexity:
+
+    Text File Size: 111 KB
+    Some Blockquotes
+    Extensive Spellcheck/Gutcheck
+
+Level 1 Errors:
+
+    All Versions:
+      None
+
+    HTML Version Only:
+      None
+
+Level 2 Errors:
+
+    All Versions:
+      None
+
+    HTML Version Only:
+      None
+
+Strongly Recommended (These don't count as errors but should be corrected):
+    None
+
+Mildly Recommended (These don't count as errors):
+    None
+
+General comments:
+    Uploaded without change. While short and straightforward, the spell check
+    was tedious with many proper nouns, and words from several languages 
+    transliterated to English in the original book.
