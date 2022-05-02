@@ -9,6 +9,7 @@ This is a [Distributed Proofreaders](http://www.pgdp.net/) post-processing proje
 - [Trello board](https://trello.com/b/HtONKHKL/dp-phallic-worship)
 - [Good words](good_words.txt)
 - [Bad words](bad_words.txt)
+- [Project Gutenberg link](https://www.gutenberg.org/ebooks/67969)
 
 Page references (e.g. `001`) refer to the scan numbers, not the original book's page numbers.
 
