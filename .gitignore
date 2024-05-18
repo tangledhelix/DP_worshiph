@@ -7,3 +7,4 @@ guiguts.log
 *.bin
 *.html
 *-utf8.txt
+/.vscode/
